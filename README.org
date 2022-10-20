@@ -6,8 +6,10 @@
 
 * GitHub username: EricLam404
 
-* Notes: For task B, run main with an input redirection from `bad-code.cpp`
-         `./main < bad-code.cpp`
+* Notes: To run main, run main with an input redirection from `bad-code.cpp`
+```
+         ./main < bad-code.cpp`
+```
 
 
   
