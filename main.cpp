@@ -3,8 +3,10 @@
 #include "indent.h"
 
 int main(){
+    std::cout << "removeLeadingSpaces(\"       int x = 1;  \")\n";
     std::cout << removeLeadingSpaces("       int x = 1;  ") << "\n";
 
+    std::cout << "\n./main < bad-code.cpp\n";
     std::string s;
     std::string line;
     while(getline(std::cin, s)){
