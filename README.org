@@ -6,9 +6,9 @@
 
 * GitHub username: EricLam404
 
-* Notes: To run main, run main with an input redirection from `bad-code.cpp`
+* Notes: To run main, run main with an input redirection from bad-code.cpp
 ```
-         ./main < bad-code.cpp`
+./main < bad-code.cpp
 ```
 
 
