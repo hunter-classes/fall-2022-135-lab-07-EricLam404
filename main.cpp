@@ -9,6 +9,8 @@ int main(){
     std::cout << "\n./main < bad-code.cpp\n";
     std::string s;
     std::string line;
+
+    //print correct indents
     while(getline(std::cin, s)){
         line = removeLeadingSpaces(s);
         line = addIndent(line);
