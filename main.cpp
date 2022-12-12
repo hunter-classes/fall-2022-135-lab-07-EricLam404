@@ -1,3 +1,7 @@
+/*
+Code below takes in an input file in terminal directly.
+It then cleans it using a simple algorithm (adding and removing indents).
+*/
 #include <iostream>
 #include "unindent.h"
 #include "indent.h"
