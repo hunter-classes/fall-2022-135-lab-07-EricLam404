@@ -1,12 +1,13 @@
 * Fall 2022 - Lab 07
 
-* Last name:
+* Last name: Lam
 
-* First name:
+* First name: Eric
 
-* GitHub username:
+* GitHub username: EricLam404
 
-* Notes:
+* Notes: To run main, run main with an input redirection from bad-code.cpp
+./main < bad-code.cpp
 
 
   
